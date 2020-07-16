@@ -1,9 +1,5 @@
 ## Hi, I am Amit! 👋
-### Full Stack Web and Flutter Developer
-**Technologies Used:** Flutter, Dart, JavaScript, ReactJS, NodeJS, MongoDB, Firebase Database, Firebase Cloud Functions
-
-
-**Available for Hire**
+I am a Full Stack Web and Mobile app Developer based in Gurgaon, India. I enjoy programming Flutter apps in Dart and web apps using React JS.
 
 Here are some of the projects I have worked on:
 ## Mobile Apps
