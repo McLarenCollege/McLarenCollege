@@ -1,16 +1,44 @@
-### Hi there 👋
+## Hi, I am Amit! 👋
+### Full Stack Web and Flutter Developer
+**Technologies Used:** Flutter, Dart, JavaScript, ReactJS, NodeJS, MongoDB, Firebase Database, Firebase Cloud Functions
 
-<!--
-**McLarenCollege/McLarenCollege** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Available for Hire**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the projects I have worked on:
+## Mobile Apps
+### [McLaren Times](http://mclarentimes.com/) - [Google Play](https://play.google.com/store/apps/details?id=com.mclarencollege.mclarentimesapp) | [App Store](https://apps.apple.com/us/app/id1499247126)
+A news reader mobile app and a website focused on the tech community.
+
+**⚡️ Built with**
+- Flutter 
+- Firebase Database
+- Firebase Cloud Functions
+- AWS S3 for storing JSON files
+**Screenshots**
+![](screenshots/mclarentimes_vote_screen.png)
+![](screenshots/mclarentimes_stories.png)
+
+### TicTacToe Game - [Google Play]() | [GitHub Repo](https://github.com)
+Classical 2 player game with nice graphics and animations.
+
+**⚡️ Built with: Flutter and Dart**
+- Used encapsulation to keep the `game` logic separate from Flutter. So the same codebase can be used even for running the 
+game in terminal
+- Learnt about animations in Flutter and created custom animation curve.
+**Screenshots**
+![](screenshots/tictactoe_1.png)
+![](screenshots/tictactoe_2.png)
+    
+## Education
+###  McLaren College
+- **Program: Full Stack Online Course**
+- **Period: Oct 2019 - Jun 2020 (9 Months)**
+
+The first three months of this course was a full-time online class focused on mobile app development. The remaining six months involved part-time study of full-stack web development and part-time paid work experience on Upcover Insurance app/McLaren Times (see above).
+
+I successfully passed 2 out of 3 course modules:
+- Flutter App Developed
+- Full Stack Web Development
+
+[More detailed curriculum](https://mclarencollege.in/course-curriculum.html)
