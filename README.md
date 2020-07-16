@@ -16,7 +16,7 @@ A news reader mobile app and a website focused on the tech community.
 - Firebase Cloud Functions
 - AWS S3 for storing JSON files
 **Screenshots**
-![](screenshots/mclarentimes_vote_screen.png)
+![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/mclarentimes_vote_screen.png)
 ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/mclarentimes_stories.png)
 
 ### TicTacToe Game - [Google Play]() | [GitHub Repo](https://github.com)
@@ -27,8 +27,8 @@ Classical 2 player game with nice graphics and animations.
 game in terminal
 - Learnt about animations in Flutter and created custom animation curve.
 **Screenshots**
-![](screenshots/tictactoe_1.png)
-![](screenshots/tictactoe_2.png)
+![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_1.png)
+![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_2.png)
     
 ## Education
 ###  McLaren College
