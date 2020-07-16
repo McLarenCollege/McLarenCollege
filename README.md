@@ -15,7 +15,9 @@ A news reader mobile app and a website focused on the tech community.
 - Firebase Database
 - Firebase Cloud Functions
 - AWS S3 for storing JSON files
+
 **Screenshots**
+
 ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/mclarentimes_vote_screen.png)
 ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/mclarentimes_stories.png)
 
@@ -26,7 +28,9 @@ Classical 2 player game with nice graphics and animations.
 - Used encapsulation to keep the `game` logic separate from Flutter. So the same codebase can be used even for running the 
 game in terminal
 - Learnt about animations in Flutter and created custom animation curve.
+
 **Screenshots**
+
 ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_1.png)
 ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_2.png)
     
