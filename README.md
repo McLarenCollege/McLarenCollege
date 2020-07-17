@@ -14,7 +14,7 @@ A news reader mobile app and a website focused on the tech community.
 
 **Demo Video**
 
-[![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/mclarentimes_demo_thumbnail.png)](https://www.youtube.com/watch?v=zSSm7cfpzCY)
+[<img src="https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/mclarentimes_demo_thumbnail.png" height="450" />](https://www.youtube.com/watch?v=zSSm7cfpzCY)
 
 **Screenshots**
 
