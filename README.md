@@ -27,9 +27,20 @@ game in terminal
 
 **Screenshots**
 
-![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_1.png)
+[![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_1.png)](https://youtube.com)
 ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_2.png)
-    
+
+### TicTacToe Game - [Google Play]() | [GitHub Repo](https://github.com)
+Classical 2 player game with nice graphics and animations.
+
+**⚡️ Built with: Flutter and Dart**
+- Used encapsulation to keep the `game` logic separate from Flutter. So the same codebase can be used even for running the 
+game in terminal
+- Learnt about animations in Flutter and created custom animation curve.
+
+**Screenshots**
+
+
 ## Education
 ###  McLaren College
 - **Program: Full Stack Online Course**
