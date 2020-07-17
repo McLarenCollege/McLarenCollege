@@ -12,6 +12,10 @@ A news reader mobile app and a website focused on the tech community.
 - Firebase Cloud Functions
 - AWS S3 for storing JSON files
 
+**Demo Video**
+
+[![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/mclarentimes_demo_thumbnail.png)](https://www.youtube.com/watch?v=zSSm7cfpzCY)
+
 **Screenshots**
 
 <img src="https://mclarentimes.com/images/topSection_compressed.png" height="450" /><img src="https://mclarentimes.com/images/suggestion_compressed.png" height="450" style="padding-left:20px"/>
