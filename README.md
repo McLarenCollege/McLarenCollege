@@ -13,7 +13,7 @@ A news reader mobile app and a website focused on the tech community.
 - AWS S3 for storing JSON files
 
 **Screenshots**
-![](https://mclarentimes.com/images/topSection_compressed.png)
+![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/mclarentimes_vote_screen.png)
 ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/mclarentimes_vote_screen.png)
 ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/mclarentimes_stories.png)
 
