@@ -31,7 +31,7 @@ game in terminal
 
 **Screenshots**
 
-[![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_1.png)](https://youtube.com)
+![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_1.png)
 ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_2.png)
 
 ### TicTacToe Game - [Google Play]() | [GitHub Repo](https://github.com)
