@@ -14,9 +14,7 @@ A news reader mobile app and a website focused on the tech community.
 
 **Screenshots**
 
-![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/mclarentimes_vote_screen.png)
-![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/mclarentimes_vote_screen.png)
-![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/mclarentimes_stories.png)
+<img src="https://mclarentimes.com/images/topSection_compressed.png" height="450" /><img src="https://mclarentimes.com/images/suggestion_compressed.png" height="450" style="padding-left:20px"/>
 
 
 ### TicTacToe Game - [Google Play]() | [GitHub Repo](https://github.com)
